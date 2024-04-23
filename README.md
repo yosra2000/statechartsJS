@@ -1,3 +1,6 @@
+![Screenshot](genieLog.png)
+
+
 # stateChartsJS
 
 stateChartsJS est un projet qui démontre l'utilisation des statecharts en JavaScript.
